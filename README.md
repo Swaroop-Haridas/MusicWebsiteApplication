@@ -1,1 +1,3 @@
 # MusicWebsiteApplication
+
+This is a music player website application. It includes the structure of the music player interface, such as the song title, play-pause, previous and next buttons, music timer tracker, volume configuration, and related CSS and JavaScript files. The music player is designed with features like a music slider, volume control, and song information display. The JavaScript files indicate the use of a double linked list for the music player. The interface is styled using an external CSS file and includes font awesome icons for the buttons. The HTML file is structured with div elements to organize the different components of the music player.
